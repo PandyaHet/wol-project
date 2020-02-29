@@ -1,0 +1,70 @@
+.top
+{
+    background-color: #45dff9;
+    font-weight: normal;
+    color: white;
+    padding: 90px 90px 90px 280px;
+    margin-top: 90px;
+}
+.container
+{
+     width:900px;
+     margin:auto;
+     font-size:20px;
+     text-align: justify;
+     color: #655a55;
+     line-height: 1.3em;
+}
+.boxhead
+{
+    background-color:#31c5ff;
+    font-size:20px;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    padding:10px;
+    margin-top: 0px;
+}
+.box1
+{
+    background-color: white;
+    width:550px;
+    box-shadow: 2px 2px 2px 3px #ebebeb;
+    float: left;
+}
+.btn
+{
+    margin-left: 180px;
+    margin-bottom: 25px;
+    margin-top:10px;
+    box-shadow: 1px 1px 0px 1px gray;
+}
+.btn:hover
+{
+    box-shadow: 1px 1px 1px 2px gray;
+}
+button
+{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.box2
+{
+    background-color: white;
+    width:300px;
+    box-shadow: 2px 2px 2px 3px #ebebeb;
+    float: right;
+    margin-bottom: 10px;
+}
+li
+{
+    list-style:circle;
+    font-size: 15px;
+    margin-top: 0px;
+}
+.content
+{
+    margin-right: 10px;
+}
